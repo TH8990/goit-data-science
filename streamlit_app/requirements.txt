@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 pillow
-tensorflow-cpu
+tensorflow
